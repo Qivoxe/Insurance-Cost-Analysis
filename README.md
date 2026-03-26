@@ -95,8 +95,8 @@ Lifestyle factors such as smoking and obesity play a major role in determining i
 ## 📁 Project Structure  
 
 Insurance-Cost-Analysis  
-│── Project 1.ipynb  
-│── dataset.csv  
+│── Insurance cost analysis.ipynb  
+│── insurance.csv  
 │── README.md  
 
 ---
