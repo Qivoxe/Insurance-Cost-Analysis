@@ -1,80 +1,102 @@
-🚀 Insurance Cost Analysis
-📊 EDA | Feature Engineering | Statistical Testing | ML-Ready Dataset
 
+# 🧬 𝙄𝙉𝙎𝙐𝙍𝘼𝙉𝘾𝙀 𝘾𝙊𝙎𝙏 𝘼𝙉𝘼𝙇𝙔𝙎𝙄𝙎  
+### ⌁ Data Storytelling • EDA • Statistical Insights  
 
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-COMPLETED-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FOCUS-DATA%20ANALYSIS-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LEVEL-INTERMEDIATE-orange?style=for-the-badge"/>
+</p>
 
-🧠 Problem Statement
+---
 
-Medical insurance costs vary significantly across individuals.
-This project aims to identify key factors driving insurance charges using data analysis and statistical validation.
+## 🧠 Problem Statement  
 
-🎯 What Makes This Project Stand Out
+> Why do some people pay significantly higher insurance charges than others?  
 
-✔️ Real-world dataset analysis
-✔️ Strong EDA with visual insights
-✔️ Feature engineering using domain knowledge
-✔️ Statistical testing (Chi-Square + Correlation)
-✔️ Clean ML-ready dataset
+This project explores real-world insurance data to uncover key factors affecting medical costs using EDA, feature engineering, and statistical analysis.
 
-📂 Dataset Overview
-Feature	Description
-age	Age of individual
-sex	Gender
-bmi	Body Mass Index
-children	Number of dependents
-smoker	Smoking status
-region	Residential region
-charges	Insurance cost (target)
-🔍 Workflow
-📌 1. Data Exploration
-Distribution analysis (histograms, KDE)
-Categorical analysis (countplots)
-Outlier detection (boxplots)
-🧹 2. Data Cleaning
-Removed duplicates
-Verified missing values
-⚙️ 3. Feature Engineering
-Encoded categorical variables
-Created BMI Category Feature:
-Underweight
-Normal
-Overweight
-Obese
-📏 4. Feature Scaling
-Applied StandardScaler to numerical features
-📊 5. Statistical Analysis
-Pearson Correlation → numerical relationships
-Chi-Square Test → categorical importance
-📈 Key Insights (🔥 Recruiter Hook Section)
+---
 
-🚬 Smoker = Highest Cost Driver
-→ Smokers are charged significantly higher insurance
+## ⚡ Why This Project Stands Out  
 
-⚖️ BMI Matters
-→ Obesity strongly increases medical costs
+- Clean and structured data analysis pipeline  
+- Strong exploratory data analysis (EDA)  
+- Feature engineering using domain knowledge  
+- Statistical validation (Chi-Square + Correlation)  
+- Machine Learning ready dataset  
 
-👴 Age Factor
-→ Older individuals tend to have higher charges
+---
 
-🌍 Low Impact Features
-→ Gender and region have minimal effect
+## 📂 Dataset Overview  
 
-🧠 Final Conclusion
+- age → Age of individual  
+- sex → Gender  
+- bmi → Body Mass Index  
+- children → Number of dependents  
+- smoker → Smoking status  
+- region → Residential region  
+- charges → Insurance cost (target variable)  
 
-Lifestyle factors (especially smoking and obesity) have a far greater impact on insurance charges than demographic factors.
+---
 
-📊 Before vs After (Impact of Feature Engineering)
-Step	Improvement
-Raw Data	Unstructured
-After Encoding	Model-friendly
-After Engineering	More informative features
-Final Dataset	ML-ready 🚀
-🚀 Future Scope
-Build regression models (Linear Regression, Random Forest)
-Hyperparameter tuning
-Outlier handling
-Deploy as a web app (Flask/Streamlit)
-📁 Project Structure
-├── Project 1.ipynb
-├── dataset.csv
-├── README.md
+## 🔍 Workflow  
+
+### 1. Data Exploration  
+- Distribution analysis (histograms, KDE)  
+- Categorical analysis (countplots)  
+- Outlier detection (boxplots)  
+
+### 2. Data Cleaning  
+- Removed duplicate records  
+- No missing values  
+
+### 3. Feature Engineering  
+- Encoded categorical variables  
+- Created BMI categories:  
+  - Underweight  
+  - Normal  
+  - Overweight  
+  - Obese  
+
+### 4. Feature Scaling  
+- Applied StandardScaler  
+
+### 5. Statistical Analysis  
+- Pearson Correlation  
+- Chi-Square Test  
+
+---
+
+## 📈 Key Insights  
+
+- Smoking is the most significant factor affecting insurance charges  
+- Higher BMI (especially obesity) increases costs  
+- Age has a moderate impact  
+- Gender and region have minimal influence  
+
+---
+
+## 🧠 Conclusion  
+
+Lifestyle factors such as smoking and obesity play a major role in determining insurance costs, while demographic features have less impact.
+
+---
+
+## 🚀 Future Improvements  
+
+- Build regression models  
+- Perform hyperparameter tuning  
+- Improve feature selection  
+- Deploy as a web application  
+
+---
+
+## 📁 Project Structure  
+
+Insurance-Cost-Analysis  
+│── Project 1.ipynb  
+│── dataset.csv  
+│── README.md  
+
+---
