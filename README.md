@@ -18,15 +18,7 @@ This project explores real-world insurance data to uncover key factors affecting
 
 ---
 
-## ⚡ Why This Project Stands Out  
 
-- Clean and structured data analysis pipeline  
-- Strong exploratory data analysis (EDA)  
-- Feature engineering using domain knowledge  
-- Statistical validation (Chi-Square + Correlation)  
-- Machine Learning ready dataset  
-
----
 
 ## 📂 Dataset Overview  
 
