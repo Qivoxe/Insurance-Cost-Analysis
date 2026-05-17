@@ -1,12 +1,6 @@
 
-# 🧬 𝙄𝙉𝙎𝙐𝙍𝘼𝙉𝘾𝙀 𝘾𝙊𝙎𝙏 𝘼𝙉𝘼𝙇𝙔𝙎𝙄𝙎  
+#  𝙄𝙉𝙎𝙐𝙍𝘼𝙉𝘾𝙀 𝘾𝙊𝙎𝙏 𝘼𝙉𝘼𝙇𝙔𝙎𝙄𝙎  
 ### ⌁ Data Storytelling • EDA • Statistical Insights  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-COMPLETED-00C853?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FOCUS-DATA%20ANALYSIS-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LEVEL-INTERMEDIATE-orange?style=for-the-badge"/>
-</p>
 
 ---
 
