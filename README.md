@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 Problem Statement  
+##  Problem Statement  
 
 > Why do some people pay significantly higher insurance charges than others?  
 
@@ -20,7 +20,7 @@ This project explores real-world insurance data to uncover key factors affecting
 
 
 
-## 📂 Dataset Overview  
+##  Dataset Overview  
 
 - age → Age of individual  
 - sex → Gender  
@@ -32,7 +32,7 @@ This project explores real-world insurance data to uncover key factors affecting
 
 ---
 
-## 🔍 Workflow  
+##  Workflow  
 
 ### 1. Data Exploration  
 - Distribution analysis (histograms, KDE)  
@@ -69,13 +69,13 @@ This project explores real-world insurance data to uncover key factors affecting
 
 ---
 
-## 🧠 Conclusion  
+##  Conclusion  
 
 Lifestyle factors such as smoking and obesity play a major role in determining insurance costs, while demographic features have less impact.
 
 ---
 
-## 🚀 Future Improvements  
+##  Future Improvements  
 
 - Build regression models  
 - Perform hyperparameter tuning  
@@ -84,7 +84,7 @@ Lifestyle factors such as smoking and obesity play a major role in determining i
 
 ---
 
-## 📁 Project Structure  
+##  Project Structure  
 
 Insurance-Cost-Analysis  
 │── Insurance cost analysis.ipynb  
