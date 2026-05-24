@@ -54,7 +54,7 @@ This project explores real-world insurance data to uncover key factors affecting
 
 ---
 
-## 📈 Key Insights  
+##  Key Insights  
 
 - Smoking is the most significant factor affecting insurance charges  
 - Higher BMI (especially obesity) increases costs  
